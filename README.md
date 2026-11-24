@@ -1,10 +1,5 @@
 # pi-config
 
-David Ondrej's [Pi Agent](https://pi.dev) settings, model choices, prompts, and command guard.
-
-- **Coding:** Kimi K3 through OpenRouter, high thinking.
-- **Compaction:** Gemini 3.8 Flash Nitro through OpenRouter, high thinking.
-- **Extras:** public package recommendations, optional prompts, and cmux/Herdr setup instructions.
 
 ## Get started
 
